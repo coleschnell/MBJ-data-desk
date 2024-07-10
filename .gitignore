@@ -130,7 +130,7 @@ cython_debug/
 .vs*
 
 # cookiecutter template
-.project_template/
+.project-template/
 
 # worki in progress
 xai_job_postings/
