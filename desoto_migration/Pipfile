@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 ipykernel = "*"
 notebook = "*"
+geopandas = "*"
 
 [dev-packages]
 
