@@ -1,0 +1,267 @@
+0,1,2,3,4,5,6,7
+FULL2_NAME,GEOID2,MOVEDIN,MOVEDOUT,MOVEDNET,SUMLEV2,state,county
+"Baldwin County, Alabama",01003,0,55,-55,50,28,033
+"Calhoun County, Alabama",01015,0,7,-7,50,28,033
+"Colbert County, Alabama",01033,0,18,-18,50,28,033
+"Covington County, Alabama",01039,5,0,5,50,28,033
+"Dale County, Alabama",01045,0,2,-2,50,28,033
+"Elmore County, Alabama",01051,0,20,-20,50,28,033
+"Houston County, Alabama",01069,0,7,-7,50,28,033
+"Jackson County, Alabama",01071,24,3,21,50,28,033
+"Jefferson County, Alabama",01073,10,25,-15,50,28,033
+"Madison County, Alabama",01089,20,0,20,50,28,033
+"Mobile County, Alabama",01097,29,0,29,50,28,033
+"Morgan County, Alabama",01103,27,0,27,50,28,033
+"St. Clair County, Alabama",01115,36,0,36,50,28,033
+"Anchorage Municipality, Alaska",02020,7,0,7,50,28,033
+"Juneau City and Borough, Alaska",02110,0,7,-7,50,28,033
+"Mohave County, Arizona",04015,89,0,89,50,28,033
+"Pima County, Arizona",04019,0,30,-30,50,28,033
+"Pinal County, Arizona",04021,0,36,-36,50,28,033
+"Benton County, Arkansas",05007,119,8,111,50,28,033
+"Craighead County, Arkansas",05031,0,311,-311,50,28,033
+"Crawford County, Arkansas",05033,50,0,50,50,28,033
+"Crittenden County, Arkansas",05035,105,43,62,50,28,033
+"Faulkner County, Arkansas",05045,0,4,-4,50,28,033
+"Garland County, Arkansas",05051,15,0,15,50,28,033
+"Greene County, Arkansas",05055,2,0,2,50,28,033
+"Jefferson County, Arkansas",05069,28,0,28,50,28,033
+"Lee County, Arkansas",05077,0,4,-4,50,28,033
+"Lonoke County, Arkansas",05085,119,15,104,50,28,033
+"Mississippi County, Arkansas",05093,0,17,-17,50,28,033
+"Phillips County, Arkansas",05107,14,0,14,50,28,033
+"Poinsett County, Arkansas",05111,0,7,-7,50,28,033
+"Pulaski County, Arkansas",05119,7,0,7,50,28,033
+"St. Francis County, Arkansas",05123,11,15,-4,50,28,033
+"Saline County, Arkansas",05125,27,0,27,50,28,033
+"Woodruff County, Arkansas",05147,0,1,-1,50,28,033
+"Kern County, California",06029,15,0,15,50,28,033
+"Los Angeles County, California",06037,0,44,-44,50,28,033
+"Orange County, California",06059,83,0,83,50,28,033
+"San Diego County, California",06073,77,28,49,50,28,033
+"Ventura County, California",06111,40,0,40,50,28,033
+"Adams County, Colorado",08001,0,40,-40,50,28,033
+"Bent County, Colorado",08011,17,0,17,50,28,033
+"Douglas County, Colorado",08035,0,38,-38,50,28,033
+"El Paso County, Colorado",08041,0,9,-9,50,28,033
+"Columbia County, Florida",12023,28,0,28,50,28,033
+"Escambia County, Florida",12033,0,4,-4,50,28,033
+"Gadsden County, Florida",12039,19,0,19,50,28,033
+"Hillsborough County, Florida",12057,0,9,-9,50,28,033
+"Leon County, Florida",12073,35,0,35,50,28,033
+"Miami-Dade County, Florida",12086,31,0,31,50,28,033
+"Monroe County, Florida",12087,38,0,38,50,28,033
+"Okaloosa County, Florida",12091,0,26,-26,50,28,033
+"Orange County, Florida",12095,31,0,31,50,28,033
+"Palm Beach County, Florida",12099,47,0,47,50,28,033
+"Pasco County, Florida",12101,0,17,-17,50,28,033
+"Pinellas County, Florida",12103,15,0,15,50,28,033
+"Santa Rosa County, Florida",12113,0,33,-33,50,28,033
+"Volusia County, Florida",12127,1,0,1,50,28,033
+"Chatham County, Georgia",13051,0,74,-74,50,28,033
+"Cobb County, Georgia",13067,7,62,-55,50,28,033
+"Coweta County, Georgia",13077,0,10,-10,50,28,033
+"DeKalb County, Georgia",13089,20,0,20,50,28,033
+"Fulton County, Georgia",13121,51,11,40,50,28,033
+"Grady County, Georgia",13131,2,0,2,50,28,033
+"Henry County, Georgia",13151,136,0,136,50,28,033
+"Houston County, Georgia",13153,0,18,-18,50,28,033
+"Lowndes County, Georgia",13185,6,0,6,50,28,033
+"McDuffie County, Georgia",13189,90,0,90,50,28,033
+"Newton County, Georgia",13217,19,0,19,50,28,033
+"Richmond County, Georgia",13245,0,7,-7,50,28,033
+"Honolulu County, Hawaii",15003,31,0,31,50,28,033
+"Ada County, Idaho",16001,0,3,-3,50,28,033
+"Carroll County, Illinois",17015,0,9,-9,50,28,033
+"Champaign County, Illinois",17019,29,0,29,50,28,033
+"Cook County, Illinois",17031,9,187,-178,50,28,033
+"Knox County, Illinois",17095,12,0,12,50,28,033
+"Lake County, Illinois",17097,0,86,-86,50,28,033
+"Macon County, Illinois",17115,7,37,-30,50,28,033
+"Will County, Illinois",17197,7,0,7,50,28,033
+"Winnebago County, Illinois",17201,9,0,9,50,28,033
+"Blackford County, Indiana",18009,0,1,-1,50,28,033
+"Delaware County, Indiana",18035,0,81,-81,50,28,033
+"Hamilton County, Indiana",18057,7,0,7,50,28,033
+"LaPorte County, Indiana",18091,46,0,46,50,28,033
+"Tippecanoe County, Indiana",18157,0,7,-7,50,28,033
+"Black Hawk County, Iowa",19013,0,27,-27,50,28,033
+"Mahaska County, Iowa",19123,8,0,8,50,28,033
+"McPherson County, Kansas",20113,0,72,-72,50,28,033
+"Marion County, Kansas",20115,0,2,-2,50,28,033
+"Boone County, Kentucky",21015,0,28,-28,50,28,033
+"Boyle County, Kentucky",21021,0,1,-1,50,28,033
+"Christian County, Kentucky",21047,0,5,-5,50,28,033
+"Fulton County, Kentucky",21075,0,1,-1,50,28,033
+"Jefferson County, Kentucky",21111,67,0,67,50,28,033
+"Wolfe County, Kentucky",21237,0,2,-2,50,28,033
+"East Baton Rouge Parish, Louisiana",22033,0,91,-91,50,28,033
+"Jefferson Parish, Louisiana",22051,0,50,-50,50,28,033
+"LaSalle Parish, Louisiana",22059,0,6,-6,50,28,033
+"Orleans Parish, Louisiana",22071,0,24,-24,50,28,033
+"Richland Parish, Louisiana",22083,0,7,-7,50,28,033
+"Cumberland County, Maine",23005,33,0,33,50,28,033
+"Penobscot County, Maine",23019,0,12,-12,50,28,033
+"Montgomery County, Maryland",24031,0,37,-37,50,28,033
+"Middlesex County, Massachusetts",25017,0,11,-11,50,28,033
+"Huron County, Michigan",26063,0,6,-6,50,28,033
+"Macomb County, Michigan",26099,8,0,8,50,28,033
+"Wayne County, Michigan",26163,12,0,12,50,28,033
+"Dakota County, Minnesota",27037,20,0,20,50,28,033
+"Houston County, Minnesota",27055,0,10,-10,50,28,033
+"Adams County, Mississippi",28001,17,0,17,50,28,033
+"Alcorn County, Mississippi",28003,23,38,-15,50,28,033
+"Attala County, Mississippi",28007,42,10,32,50,28,033
+"Benton County, Mississippi",28009,38,4,34,50,28,033
+"Bolivar County, Mississippi",28011,70,102,-32,50,28,033
+"Chickasaw County, Mississippi",28017,0,16,-16,50,28,033
+"Claiborne County, Mississippi",28021,3,11,-8,50,28,033
+"Clarke County, Mississippi",28023,8,0,8,50,28,033
+"Clay County, Mississippi",28025,20,0,20,50,28,033
+"Coahoma County, Mississippi",28027,97,0,97,50,28,033
+"Copiah County, Mississippi",28029,39,42,-3,50,28,033
+"Forrest County, Mississippi",28035,94,62,32,50,28,033
+"Greene County, Mississippi",28041,8,9,-1,50,28,033
+"Hancock County, Mississippi",28045,0,10,-10,50,28,033
+"Harrison County, Mississippi",28047,62,66,-4,50,28,033
+"Hinds County, Mississippi",28049,83,41,42,50,28,033
+"Itawamba County, Mississippi",28057,83,4,79,50,28,033
+"Jackson County, Mississippi",28059,11,343,-332,50,28,033
+"Jones County, Mississippi",28067,0,9,-9,50,28,033
+"Lafayette County, Mississippi",28071,571,337,234,50,28,033
+"Lamar County, Mississippi",28073,6,0,6,50,28,033
+"Lauderdale County, Mississippi",28075,10,14,-4,50,28,033
+"Leake County, Mississippi",28079,0,2,-2,50,28,033
+"Lee County, Mississippi",28081,181,117,64,50,28,033
+"Leflore County, Mississippi",28083,50,16,34,50,28,033
+"Lincoln County, Mississippi",28085,48,0,48,50,28,033
+"Madison County, Mississippi",28089,73,31,42,50,28,033
+"Marion County, Mississippi",28091,0,7,-7,50,28,033
+"Marshall County, Mississippi",28093,810,214,596,50,28,033
+"Monroe County, Mississippi",28095,43,0,43,50,28,033
+"Newton County, Mississippi",28101,0,6,-6,50,28,033
+"Oktibbeha County, Mississippi",28105,30,367,-337,50,28,033
+"Panola County, Mississippi",28107,99,92,7,50,28,033
+"Pearl River County, Mississippi",28109,0,22,-22,50,28,033
+"Perry County, Mississippi",28111,0,8,-8,50,28,033
+"Pike County, Mississippi",28113,17,4,13,50,28,033
+"Prentiss County, Mississippi",28117,0,22,-22,50,28,033
+"Quitman County, Mississippi",28119,125,7,118,50,28,033
+"Rankin County, Mississippi",28121,119,92,27,50,28,033
+"Scott County, Mississippi",28123,19,0,19,50,28,033
+"Sharkey County, Mississippi",28125,39,7,32,50,28,033
+"Stone County, Mississippi",28131,2,2,0,50,28,033
+"Sunflower County, Mississippi",28133,356,42,314,50,28,033
+"Tallahatchie County, Mississippi",28135,57,0,57,50,28,033
+"Tate County, Mississippi",28137,604,413,191,50,28,033
+"Tippah County, Mississippi",28139,26,41,-15,50,28,033
+"Tishomingo County, Mississippi",28141,0,19,-19,50,28,033
+"Tunica County, Mississippi",28143,102,119,-17,50,28,033
+"Union County, Mississippi",28145,0,77,-77,50,28,033
+"Warren County, Mississippi",28149,0,3,-3,50,28,033
+"Washington County, Mississippi",28151,56,0,56,50,28,033
+"Yalobusha County, Mississippi",28161,32,5,27,50,28,033
+"Boone County, Missouri",29019,73,0,73,50,28,033
+"Dallas County, Missouri",29059,19,0,19,50,28,033
+"Dunklin County, Missouri",29069,0,14,-14,50,28,033
+"Greene County, Missouri",29077,0,11,-11,50,28,033
+"Jefferson County, Missouri",29099,12,148,-136,50,28,033
+"Johnson County, Missouri",29101,0,4,-4,50,28,033
+"Pulaski County, Missouri",29169,0,43,-43,50,28,033
+"St. Louis County, Missouri",29189,12,0,12,50,28,033
+"Cascade County, Montana",30013,23,0,23,50,28,033
+"Flathead County, Montana",30029,53,0,53,50,28,033
+"Douglas County, Nebraska",31055,0,46,-46,50,28,033
+"Lancaster County, Nebraska",31109,0,17,-17,50,28,033
+"Sarpy County, Nebraska",31153,0,3,-3,50,28,033
+"Clark County, Nevada",32003,20,81,-61,50,28,033
+"Bernalillo County, New Mexico",35001,14,0,14,50,28,033
+"Do�a Ana County, New Mexico",35013,111,0,111,50,28,033
+"Nassau County, New York",36059,40,0,40,50,28,033
+"Onondaga County, New York",36067,0,4,-4,50,28,033
+"Queens County, New York",36081,0,15,-15,50,28,033
+"Rockland County, New York",36087,0,14,-14,50,28,033
+"Westchester County, New York",36119,0,7,-7,50,28,033
+"Cabarrus County, North Carolina",37025,0,27,-27,50,28,033
+"Cumberland County, North Carolina",37051,24,29,-5,50,28,033
+"New Hanover County, North Carolina",37129,0,61,-61,50,28,033
+"Wayne County, North Carolina",37191,28,0,28,50,28,033
+"Ward County, North Dakota",38101,0,13,-13,50,28,033
+"Delaware County, Ohio",39041,0,5,-5,50,28,033
+"Franklin County, Ohio",39049,16,0,16,50,28,033
+"Hamilton County, Ohio",39061,0,57,-57,50,28,033
+"Lucas County, Ohio",39095,0,9,-9,50,28,033
+"Montgomery County, Ohio",39113,0,21,-21,50,28,033
+"Noble County, Ohio",39121,0,9,-9,50,28,033
+"Summit County, Ohio",39153,53,0,53,50,28,033
+"Beckham County, Oklahoma",40009,0,16,-16,50,28,033
+"Blaine County, Oklahoma",40011,0,9,-9,50,28,033
+"Canadian County, Oklahoma",40017,0,84,-84,50,28,033
+"Cleveland County, Oklahoma",40027,0,74,-74,50,28,033
+"Comanche County, Oklahoma",40031,0,28,-28,50,28,033
+"Jackson County, Oklahoma",40065,0,8,-8,50,28,033
+"Sequoyah County, Oklahoma",40135,8,0,8,50,28,033
+"Tulsa County, Oklahoma",40143,16,0,16,50,28,033
+"Wagoner County, Oklahoma",40145,0,8,-8,50,28,033
+"Forest County, Pennsylvania",42053,6,0,6,50,28,033
+"Berkeley County, South Carolina",45015,0,14,-14,50,28,033
+"Greenville County, South Carolina",45045,0,24,-24,50,28,033
+"Richland County, South Carolina",45079,0,33,-33,50,28,033
+"McCook County, South Dakota",46087,0,11,-11,50,28,033
+"Pennington County, South Dakota",46103,0,15,-15,50,28,033
+"Davidson County, Tennessee",47037,75,65,10,50,28,033
+"Dyer County, Tennessee",47045,0,116,-116,50,28,033
+"Fayette County, Tennessee",47047,23,199,-176,50,28,033
+"Grainger County, Tennessee",47057,0,4,-4,50,28,033
+"Hamilton County, Tennessee",47065,7,6,1,50,28,033
+"Haywood County, Tennessee",47075,0,3,-3,50,28,033
+"Houston County, Tennessee",47083,31,0,31,50,28,033
+"Knox County, Tennessee",47093,0,7,-7,50,28,033
+"McNairy County, Tennessee",47109,0,17,-17,50,28,033
+"Monroe County, Tennessee",47123,0,1,-1,50,28,033
+"Montgomery County, Tennessee",47125,10,2,8,50,28,033
+"Rutherford County, Tennessee",47149,7,76,-69,50,28,033
+"Sevier County, Tennessee",47155,0,136,-136,50,28,033
+"Shelby County, Tennessee",47157,3513,3221,292,50,28,033
+"Sullivan County, Tennessee",47163,6,0,6,50,28,033
+"Sumner County, Tennessee",47165,7,0,7,50,28,033
+"Tipton County, Tennessee",47167,256,41,215,50,28,033
+"Warren County, Tennessee",47177,7,0,7,50,28,033
+"Washington County, Tennessee",47179,0,9,-9,50,28,033
+"Williamson County, Tennessee",47187,0,80,-80,50,28,033
+"Aransas County, Texas",48007,0,20,-20,50,28,033
+"Atascosa County, Texas",48013,0,27,-27,50,28,033
+"Bexar County, Texas",48029,0,8,-8,50,28,033
+"Cameron County, Texas",48061,0,1,-1,50,28,033
+"Collin County, Texas",48085,10,0,10,50,28,033
+"Dallas County, Texas",48113,127,92,35,50,28,033
+"El Paso County, Texas",48141,125,0,125,50,28,033
+"Gregg County, Texas",48183,29,0,29,50,28,033
+"Harris County, Texas",48201,11,143,-132,50,28,033
+"Harrison County, Texas",48203,0,9,-9,50,28,033
+"Hays County, Texas",48209,11,0,11,50,28,033
+"Howard County, Texas",48227,0,30,-30,50,28,033
+"Lamar County, Texas",48277,15,0,15,50,28,033
+"McCulloch County, Texas",48307,0,3,-3,50,28,033
+"Montgomery County, Texas",48339,0,30,-30,50,28,033
+"Tarrant County, Texas",48439,16,9,7,50,28,033
+"Tom Green County, Texas",48451,0,2,-2,50,28,033
+"Travis County, Texas",48453,56,0,56,50,28,033
+"Victoria County, Texas",48469,62,18,44,50,28,033
+"Wichita County, Texas",48485,0,17,-17,50,28,033
+"Davis County, Utah",49011,0,25,-25,50,28,033
+"Fairfax County, Virginia",51059,9,0,9,50,28,033
+"Franklin County, Virginia",51067,0,46,-46,50,28,033
+"Prince William County, Virginia",51153,1,0,1,50,28,033
+"Chesapeake city, Virginia",51550,62,0,62,50,28,033
+"Lynchburg city, Virginia",51680,0,18,-18,50,28,033
+"Clallam County, Washington",53009,0,17,-17,50,28,033
+"Douglas County, Washington",53017,40,0,40,50,28,033
+"Pierce County, Washington",53053,9,10,-1,50,28,033
+"Jefferson County, Wisconsin",55055,6,0,6,50,28,033
+"Racine County, Wisconsin",55101,70,0,70,50,28,033
+"Sauk County, Wisconsin",55111,12,0,12,50,28,033
+"Waukesha County, Wisconsin",55133,15,0,15,50,28,033
+"Laramie County, Wyoming",56021,5,0,5,50,28,033
+"Sheridan County, Wyoming",56033,13,0,13,50,28,033
+"Guaynabo Municipio, Puerto Rico",72061,0,17,-17,50,28,033
